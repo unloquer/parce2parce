@@ -1,0 +1,24 @@
+*Etapa 1*
+Herramienta para publicar una info en formato JSON o algún formato que nos permita leerlo después.
+
+formulario(recibe datos ¿Qué comparto? ¿Donde lo comparto? ¿Cuanto pesa? ¿Donde lo entrego? ¿Cuando lo entrego?)
+
+https://github.com/caolan/forms
+
+retorna url para compartir
+
+*Etapa 2*
+-Sistema de búsqueda de items publicados según:
+	geolocalización
+	peso
+-Restringir la búsqueda por Kilómetros a la redonda.
+-Buscar por Tags
+
+*Etapa 3*
+Registro de usuarios, para poder hacer sistema de valoración y reputación.
+
+
+
+
+
+
